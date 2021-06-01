@@ -28,7 +28,7 @@
 
 👤 **Piotr Rutkowski**
 
-- GitHub: [@Loosescrew022](https://github.com/Loosescrew022) 
+- GitHub: [@P-Rutkowski](https://github.com/P-Rutkowski) 
 
 ## 🤝 Contributing
 
