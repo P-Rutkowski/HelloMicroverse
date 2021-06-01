@@ -34,7 +34,7 @@
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Abhi-1725/NYT_Article/issues).
+Feel free to check the [issues page]
 
 ## Show your support
 
@@ -47,6 +47,6 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-- Open License. Copyrights soley belong to Abhinand G.D.
+- Open License.
 
 This project is [MIT](lic.url) licensed.
